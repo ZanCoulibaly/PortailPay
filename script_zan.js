@@ -13,9 +13,9 @@ function addSubscription() {
                         points=" 38,15 22,33 12,25 "></polyline>
                 </g>
             </svg>
-            <h3 class="text-gray-800 font-semibold">Nouvel abonnement réussie</h3>
+            <h3 class="text-gray-800 font-semibold">Votre Don a été réussie</h3>
         </div>
-        <p class="text-gray-600">Merci de votre soutien, vous recevrez un cadeau dans les prochaines heures.
+        <p class="text-gray-600">Merci de votre soutien, vous ne venez de sauver des vies.
         </p>
     </div>
     `;
@@ -46,9 +46,9 @@ function addFailedSubscription() {
                         points="16,16 25,25 34,34 "></polyline>
                 </g>
             </svg>
-            <h3 class="text-red-800 font-semibold">L'abonnement a échoué</h3>
+            <h3 class="text-red-800 font-semibold">Votre opération a échoué</h3>
         </div>
-        <p class="text-gray-500">Nous n'avons pas pu traiter votre inscription. Veuillez réessayer plus tard
+        <p class="text-gray-500">Nous n'avons pas pu traiter votre demande. Veuillez réessayer plus tard
             ou contacter le support.</p>
     </div>
     `;
